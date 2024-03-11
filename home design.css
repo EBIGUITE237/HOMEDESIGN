@@ -1,0 +1,128 @@
+.page{
+    margin: 20px 80px;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 0px;
+    top: 0;
+}
+.onglet{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5px;
+}
+a{ 
+    margin-right: 20px;
+    cursor: pointer;
+    background-position: right;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(180deg, rgb(255, 255, 255), #3A9BD9);
+}
+.un{ 
+    color: darkturquoise ;
+    font-size: 25px;
+}
+.deux{
+    border: none;
+    background-color: blue;
+    color: white;
+}
+.trois{
+    background-color: white;
+}
+.boutons{
+    padding: 13px 20px;
+    border-radius: 20px;
+    font-size: 3Opx;
+}
+.para{
+    text-align: left;
+    font-size: 25px;
+}
+.quatre{
+    font-size: 60px;
+    color: blue;
+}
+.suit{
+    display: flex;
+    justify-content: left;
+}
+.huit{
+    text-align: center;
+    font-size: 35px;
+}
+.vingt{
+    font-size: 30px;
+}
+#cont{
+    background-color: #3A9BD9;
+    color: #fff;
+}
+#conte{
+    background-color: deepskyblue;
+    color: blue;
+}
+.suite{
+    padding: 20px;
+    margin: 10px;
+}
+header{
+    font-size: xx-large;
+    object-fit: cover;
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.mil{
+    display: flex;
+}
+/*pied de page*/
+footer{
+    background-color: white;
+    padding: 90px 90px;
+    font-size: x-large;
+}
+.colonnes{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+}
+.colonne{
+    border: solid;
+    border-color: #fff;
+    border-width: 30px;
+    width: 900px;
+    border-radius: 10px;
+    margin: 80px 10px;
+}
+#col{
+    background-color: #3A9BD9;
+}
+#colle{
+    border-color: gainsboro;
+    background-image: url(question.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+span{
+    color: cadetblue;
+}
+.six{
+    text-align:center;
+}
+#SiX{
+    color: cadetblue;
+}
+.onze{
+    text-align: center;
+}
+#cent{
+    background-image: url(question.jpg);
+    background-repeat: no-repeat;
+}
+/*fin pied de page*/
